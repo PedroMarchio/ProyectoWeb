@@ -1,0 +1,22 @@
+{
+  "pedro": {
+    "clave": "123",
+    "correo": "pedro@gmail.com",
+    "direccion": "estados de israel 1067"
+  },
+  "gi": {
+    "clave": "456",
+    "correo": "no tengo",
+    "direccion": "no"
+  },
+  "pepe": {
+    "clave": "qeeqwe",
+    "correo": "",
+    "direccion": ""
+  },
+  "mica": {
+    "clave": "999",
+    "correo": "",
+    "direccion": ""
+  }
+}
