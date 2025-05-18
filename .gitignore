@@ -1,0 +1,65 @@
+venvEF/ 
+# Entornos virtuales
+venv/
+.venv/
+env/
+ENV/
+venvEF/
+
+# Archivos de configuración de Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Archivos de Jupyter Notebook
+.ipynb_checkpoints/
+
+# Archivos de log
+*.log
+
+# Archivos temporales
+*.tmp
+*.swp
+*.bak
+
+# Archivos de configuración de entornos
+.env
+.env.*
+
+# Archivos de sistema y editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Salidas de compilación
+build/
+dist/
+*.egg-info/
+
+# Archivos creados por herramientas de empaquetado
+*.egg
+*.whl
+
+# Carpetas de test cacheadas
+.tox/
+.coverage
+htmlcov/
+.cache/
+pytest_cache/
+
+# Archivos de base de datos o resultados
+*.sqlite3
+*.db
+*.csv
+*.tsv
+
+# Otros
+*.pdf
+*.out
+*.exe
+*.dll
+*.so
+*.zip
+*.tar.gz
