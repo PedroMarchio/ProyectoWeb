@@ -19,7 +19,7 @@ def guardar_datos():
         json.dump(datos, archivo, indent=2)
 
 def registrarUsuario():
-    nombre = input(str("""-----------------------------------------
+    nombre = input(str("""---------------------------------------
 REGISTRATE:
 
   Ingrese un usuario: """))
